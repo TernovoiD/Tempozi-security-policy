@@ -1,1 +1,0 @@
-# Tempozi-security-policy
